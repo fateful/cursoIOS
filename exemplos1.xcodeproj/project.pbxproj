@@ -13,6 +13,7 @@
 		174AC6541A3F935700D81405 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 174AC6531A3F935700D81405 /* Images.xcassets */; };
 		174AC6571A3F935700D81405 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 174AC6551A3F935700D81405 /* LaunchScreen.xib */; };
 		174AC6631A3F935700D81405 /* exemplos1Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 174AC6621A3F935700D81405 /* exemplos1Tests.swift */; };
+		174AC66D1A3F9A1300D81405 /* ql_button.png in Resources */ = {isa = PBXBuildFile; fileRef = 174AC66C1A3F9A1300D81405 /* ql_button.png */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -36,6 +37,7 @@
 		174AC65C1A3F935700D81405 /* exemplos1Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = exemplos1Tests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		174AC6611A3F935700D81405 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		174AC6621A3F935700D81405 /* exemplos1Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = exemplos1Tests.swift; sourceTree = "<group>"; };
+		174AC66C1A3F9A1300D81405 /* ql_button.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ql_button.png; path = ../../../Downloads/ql_button.png; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -90,6 +92,7 @@
 		174AC64A1A3F935700D81405 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				174AC66C1A3F9A1300D81405 /* ql_button.png */,
 				174AC64B1A3F935700D81405 /* Info.plist */,
 			);
 			name = "Supporting Files";
@@ -192,6 +195,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				174AC66D1A3F9A1300D81405 /* ql_button.png in Resources */,
 				174AC6521A3F935700D81405 /* Main.storyboard in Resources */,
 				174AC6571A3F935700D81405 /* LaunchScreen.xib in Resources */,
 				174AC6541A3F935700D81405 /* Images.xcassets in Resources */,
